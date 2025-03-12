@@ -95,7 +95,7 @@ export default function CheckoutPage() {
                 <Input
                   id="email"
                   type="email"
-                  placeholder="vas@email.com"
+                  placeholder="your@email.com"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   required

@@ -81,7 +81,7 @@ export const translations = {
     waiting_for_payment: "Waiting for payment confirmation...",
     payment_processing:
       "Payment is being processed. If this page does not refresh within 10 minutes, check that you sent the correct amount to the specified address.",
-    contact_support: "If you have a problem, contact us at support@reecom.shop and we will respond within 24 hours.",
+    contact_support: "If you have a problem, contact us at support@persa.lol and we will respond within 24 hours.",
     back_to_home: "Back to home page",
     complete_order: "Complete order",
 
@@ -97,7 +97,7 @@ export const translations = {
     faq_how_receive_answer: "Everything is digital, and you should receive your order instantly via email.",
     faq_how_much: "How much goods can I buy per order?",
     faq_how_much_answer:
-      "You can purchase up to 10 pieces of each product in one order. If you need a larger quantity, contact us directly at support@reecom.shop for an individual offer.",
+      "You can purchase up to 10 pieces of each product in one order. If you need a larger quantity, contact us directly at support@persa.lol for an individual offer.",
     faq_how_buy_bitcoin: "How can I buy bitcoin?",
     faq_how_buy_bitcoin_answer: "Check the video in the landing page! it's easy!",
 
@@ -188,7 +188,7 @@ export const translations = {
     waiting_for_payment: "Čekání na potvrzení platby...",
     payment_processing:
       "Platba se zpracovává. Pokud se tato stránka do 10 minut neobnoví, zkontrolujte, že jste odeslali správnou částku na uvedenou adresu.",
-    contact_support: "Pokud máte problém, kontaktujte nás na support@reecom.shop a odpovíme vám do 24 hodin.",
+    contact_support: "Pokud máte problém, kontaktujte nás na support@persa.lol a odpovíme vám do 24 hodin.",
     back_to_home: "Zpět na hlavní stránku",
     complete_order: "Dokončit objednávku",
 
@@ -204,7 +204,7 @@ export const translations = {
     faq_how_receive_answer: "Vše je digitální a vaši objednávku byste měli obdržet okamžitě e-mailem.",
     faq_how_much: "Kolik zboží mohu koupit na jednu objednávku?",
     faq_how_much_answer:
-      "V jedné objednávce můžete zakoupit až 10 kusů od každého produktu. Pokud potřebujete větší množství, kontaktujte nás přímo na support@reecom.shop pro individuální nabídku.",
+      "V jedné objednávce můžete zakoupit až 10 kusů od každého produktu. Pokud potřebujete větší množství, kontaktujte nás přímo na support@persa.lol pro individuální nabídku.",
     faq_how_buy_bitcoin: "Jak mohu koupit bitcoin?",
     faq_how_buy_bitcoin_answer: "Podívejte se na video na hlavní stránce! Je to snadné!",
 
@@ -296,7 +296,7 @@ export const translations = {
     payment_processing:
       "Die Zahlung wird bearbeitet. Wenn diese Seite nicht innerhalb von 10 Minuten aktualisiert wird, überprüfen Sie, ob Sie den richtigen Betrag an die angegebene Adresse gesendet haben.",
     contact_support:
-      "Bei Problemen kontaktieren Sie uns unter support@reecom.shop und wir werden innerhalb von 24 Stunden antworten.",
+      "Bei Problemen kontaktieren Sie uns unter support@persa.lol und wir werden innerhalb von 24 Stunden antworten.",
     back_to_home: "Zurück zur Startseite",
     complete_order: "Bestellung abschließen",
 
@@ -312,7 +312,7 @@ export const translations = {
     faq_how_receive_answer: "Alles ist digital, und Sie sollten Ihre Bestellung sofort per E-Mail erhalten.",
     faq_how_much: "Wie viele Waren kann ich pro Bestellung kaufen?",
     faq_how_much_answer:
-      "Sie können bis zu 10 Stück von jedem Produkt in einer Bestellung kaufen. Wenn Sie eine größere Menge benötigen, kontaktieren Sie uns direkt unter support@reecom.shop für ein individuelles Angebot.",
+      "Sie können bis zu 10 Stück von jedem Produkt in einer Bestellung kaufen. Wenn Sie eine größere Menge benötigen, kontaktieren Sie uns direkt unter support@persa.lol für ein individuelles Angebot.",
     faq_how_buy_bitcoin: "Wie kann ich Bitcoin kaufen?",
     faq_how_buy_bitcoin_answer: "Schauen Sie sich das Video auf der Startseite an! Es ist einfach!",
 
@@ -403,7 +403,7 @@ export const translations = {
     waiting_for_payment: "Čakanie na potvrdenie platby...",
     payment_processing:
       "Platba sa spracováva. Ak sa táto stránka do 10 minút neobnoví, skontrolujte, či ste odoslali správnu sumu na uvedenú adresu.",
-    contact_support: "Ak máte problém, kontaktujte nás na support@reecom.shop a odpovieme vám do 24 hodín.",
+    contact_support: "Ak máte problém, kontaktujte nás na support@persa.lol a odpovieme vám do 24 hodín.",
     back_to_home: "Späť na hlavnú stránku",
     complete_order: "Dokončiť objednávku",
 
@@ -419,7 +419,7 @@ export const translations = {
     faq_how_receive_answer: "Všetko je digitálne a vašu objednávku by ste mali dostať okamžite e-mailom.",
     faq_how_much: "Koľko tovaru môžem kúpiť na jednu objednávku?",
     faq_how_much_answer:
-      "V jednej objednávke môžete zakúpiť až 10 kusov od každého produktu. Ak potrebujete väčšie množstvo, kontaktujte nás priamo na support@reecom.shop pre individuálnu ponuku.",
+      "V jednej objednávke môžete zakúpiť až 10 kusov od každého produktu. Ak potrebujete väčšie množstvo, kontaktujte nás priamo na support@persa.lol pre individuálnu ponuku.",
     faq_how_buy_bitcoin: "Ako môžem kúpiť bitcoin?",
     faq_how_buy_bitcoin_answer: "Pozrite sa na video na hlavnej stránke! Je to jednoduché!",
 
