@@ -1,6 +1,7 @@
 import ProductGrid from "@/components/product-grid"
 import SiteStats from "@/components/site-stats"
 import { getProducts } from "@/lib/data"
+import { Analytics } from "@vercel/analytics/react"
 
 export default function Home() {
   const products = getProducts()
@@ -9,6 +10,7 @@ export default function Home() {
     <div className="space-y-10">
       <SiteStats />
       <ProductGrid products={products} />
+      <Analytics/>
 
       <div className="mt-12 aspect-video w-full max-w-4xl mx-auto">
         <iframe
